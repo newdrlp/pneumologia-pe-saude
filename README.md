@@ -1,16 +1,7 @@
-# Pneumologia PE - Vida e Saude
+# saude.pneumologia-pe.com.br
 
-Landing page piloto para migracao gradual do Netlify para GitHub Pages.
+Landing page estática publicada via GitHub Pages.
 
-Dominio previsto: https://saude.pneumologia-pe.com.br
-
-## Estrutura
-
-- `index.html`: landing da clinica Vida e Saude / Clinica dos Feirantes.
-- `CNAME`: dominio customizado do GitHub Pages.
-- `pre-atendimento/index.html`: rota publica alinhada ao dominio, redirecionando para a ficha central com `clinica=saude`.
-- `preatendimento/index.html`: compatibilidade com links antigos sem hifen.
-
-## Publicacao
-
-GitHub Pages deve publicar a branch `main` a partir da raiz `/`.
+- Domínio: https://saude.pneumologia-pe.com.br
+- Pré-atendimento: https://saude.pneumologia-pe.com.br/pre-atendimento
+- Destino do formulário: https://newdrlp.github.io/pre-atendimento/?clinica=saude
